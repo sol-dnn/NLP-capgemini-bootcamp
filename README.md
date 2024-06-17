@@ -13,12 +13,11 @@ This repository hosts the materials and outcomes of a collaborative project betw
 
 
 ### Bootcamp Schedule
-Session 1: Kick-off & Data Collection
-Session 2: Data Preparation
-Session 3: Introduction to NLP and Word Embedding
-Session 4: Client Intermediate Meeting
-Session 5: Topic Extraction and Sentiment Analysis
-Session 6: Application of Generative AI and Large Language Models
-Session 7: Final Presentation of Results and Strategic Recommendations
-Installation
-Instructions on setting up the environment:
+- Session 1: Kick-off & Data Collection
+- Session 2: Data Preparation
+- Session 3: Introduction to NLP and Word Embedding
+- Session 4: Client Intermediate Meeting
+- Session 5: Topic Extraction and Sentiment Analysis
+- Session 6: Application of Generative AI and Large Language Models
+- Session 7: Final Presentation of Results and Strategic Recommendations
+
