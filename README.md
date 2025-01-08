@@ -21,3 +21,4 @@ This repository hosts the materials and outcomes of a collaborative project betw
 - Session 6: Application of Generative AI and Large Language Models
 - Session 7: Final Presentation of Results and Strategic Recommendations
 
+
